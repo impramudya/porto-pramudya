@@ -2,6 +2,9 @@ import React from 'react'
 import "./skills.css";
 import Frontend from './Frontend';
 import Backend from './Backend';
+import Datascience from './Datascience';
+import Uidesign from './Uidesign';
+import Devops from './Devops';
 
 const Skills = () => {
   return (
@@ -13,6 +16,12 @@ const Skills = () => {
         <Frontend/>
 
         <Backend/>
+
+        <Datascience/>
+
+        <Uidesign/>
+
+        <Devops/>
 
       </div>
     </section>
