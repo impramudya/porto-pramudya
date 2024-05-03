@@ -104,20 +104,20 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">PT.Inti Ganda Perdana</h3>
-                <span className="qualification__subtitle">FullStack Developer</span>
+                <h3 className="qualification__title">PERURI (BUMN)</h3>
+                <span className="qualification__subtitle">IT & DKV</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> May 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> Apr 2024 - Present
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">PT. Impactbyte Teknologi Edukasi</h3>
-                <span className="qualification__subtitle">Frontend Engineering</span>
+              <h3 className="qualification__title">PT.Inti Ganda Perdana</h3>
+                <span className="qualification__subtitle">Web Developer</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> Aug 2022 - Dec 2022
+                  <i className="uil uil-calendar-alt"></i> May 2023 - Nov 2023
                 </div>
               </div>
 
@@ -136,10 +136,10 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Pekan IT</h3>
-                <span className="qualification__subtitle">Public Relation</span>
+              <h3 className="qualification__title">PT. Impactbyte Teknologi Edukasi</h3>
+                <span className="qualification__subtitle">Web Developer</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> May 2022 - Sept 2022
+                  <i className="uil uil-calendar-alt"></i> Aug 2022 - Dec 2022
                 </div>
               </div>
             </div>

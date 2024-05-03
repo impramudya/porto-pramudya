@@ -8,7 +8,7 @@ export const projectsData = [
     {
         id: 1,
         image : Work1,
-        title: 'Web design',
+        title: 'System Monitoring Bearing',
         category: 'web',
     },
     {
@@ -32,7 +32,13 @@ export const projectsData = [
     {
         id: 5,
         image : Work5,
-        title: 'Web design',
+        title: 'System FIFO Trolley',
+        category: 'web',
+    },
+    {
+        id: 6,
+        image : Work5,
+        title: 'System Monitoring Truck Control',
         category: 'web',
     },
 ];

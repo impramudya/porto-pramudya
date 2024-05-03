@@ -30,12 +30,12 @@ const Footer = () => {
       <i class="bx bxl-instagram"></i>
       </a>
 
-      <a href="https://twitter.com/pramvnxx" className="footer__social-link" target="_blank">
-      <i class="bx bxl-twitter"></i>
+      <a href="https://github.com/impramudya" className="footer__social-link" target="_blank">
+      <i class="bx bxl-github"></i>
       </a>
         </div>
         
-        <span className='footer__copy'>Last Updated : March, 26 2023 <br></br>2023 &#169; made with love - by Tegar Pramudya Pratama</span>
+        <span className='footer__copy'>Last Updated : April, 10 2024 <br></br>2023 &#169; made with love - by Tegar Pramudya Pratama</span>
       </div>
     </footer>
   )
